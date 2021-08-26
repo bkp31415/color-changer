@@ -1,0 +1,24 @@
+* {
+  font-family: "Rampart One", cursive;
+}
+.container {
+  display: flex;
+  height: 400px;
+  width: 800px;
+  flex-direction: column;
+  margin: auto;
+  font-size: 100px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  width: 150px;
+  height: 50px;
+  border-radius: 15px;
+  border-style: hidden;
+}
+p {
+  color: white;
+}
